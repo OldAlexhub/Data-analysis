@@ -59,16 +59,6 @@ const Analysis = () => {
         prior to the Covid-19 pandemic. That’s it!
       </p>
       <p>
-        While trying to keep up with the world event, I couldn’t ignore the
-        greatest civilization “sorry China, Iraq, Ethiopia, and Nigeria” that is
-        known by all mankind and probably the habitants of the galaxies if such
-        thing exists! Its EGYPT. Egypt has been ill for a really long time.
-        Egypt started to be controlled by Egyptians, “whatever the word
-        controlled really means!” in the early years of 1950’s after the 1952
-        coup conducted by the “Free Officers” against the reign of Mohamed Ali’s
-        family since the age of the good old ancient Egyptians!{" "}
-      </p>
-      <p>
         Egypt has been like the student that never failed an exam but yet barely
         passes; therefore, no one really pay attention to that student. But what
         happened to Egypt to make it reach that point of being the not so neat
